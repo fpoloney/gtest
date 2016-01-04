@@ -2,7 +2,7 @@ page.title=Register for Android Backup Service
 excludeFromSuggestions=true
 @jd:body
 
-
+<p>This was added on local.</p>
 <p>If you are developing an Android application that supports <a
 href="http://developer.android.com/guide/topics/data/backup.html">data backup</a>, you must
 register your application with Android Backup Service in order to backup your app's data
