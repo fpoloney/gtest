@@ -2,6 +2,7 @@ page.title=Register for Android Backup Service
 excludeFromSuggestions=true
 @jd:body
 
+<<<<<<< HEAD
 <p>This was added on local.</p>
 <p>If you are developing an Android application that supports <a
 href="http://developer.android.com/guide/topics/data/backup.html">data backup</a>, you must
@@ -10,6 +11,10 @@ using the backup transport provided by Google. Registering your app provides you
 Service Key that verifies your application and allows backup when
 Android Backup Service is available on the user's device. Registration with Android Backup Service
 is free.</p>
+=======
+
+<p>Paragraph deleted on remote.</p>
+>>>>>>> origin/firstBranch
 
 <p>A single Backup Service Key is valid for only the application with which you register using the
 form below. If you have multiple applications for which you would like a Backup Service Key, then
