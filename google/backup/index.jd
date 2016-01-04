@@ -2,6 +2,8 @@ page.title=Android Backup Service
 @jd:body
 
 
+<p>New stuff added.</p>
+
 <p>Android Backup Service provides a <em>backup transport</em> for Android's <a
 href="{@docRoot}guide/topics/data/backup.html">data backup</a> framework, which allows you
 to copy a user's persistent app data to remote "cloud" storage. Backing up persistent data
@@ -67,6 +69,8 @@ href="{@docRoot}guide/topics/data/backup.html">Data Backup</a> guide.</p>
 
 
 <h2>User Privacy</h2>
+
+<p>More new stuff added under H2.</p>
 
 <p>At Google, we are keenly aware of the trust users place in us and our responsibility to protect
 users' privacy. Google securely transmits backup data to and from Google servers in order to provide
