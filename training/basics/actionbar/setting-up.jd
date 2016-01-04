@@ -9,7 +9,7 @@ trainingnavtop=true
 <div id="tb-wrapper">
   <div id="tb">
 
-<h2>This lesson teaches you to</h2>
+<h2>This (A deletes a word and adds text) teaches you to</h2>
 <ol>
   <li><a href="#ApiLevel11">Support Android 3.0 and Above Only</a></li>
   <li><a href="#ApiLevel7">Support Android 2.1 and Above</a></li>
