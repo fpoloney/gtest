@@ -1,4 +1,4 @@
-page.title=Managing Your App's Memory
+﻿page.title=Managing Your App's Memory
 page.tags=ram,low memory,OutOfMemoryError,onTrimMemory
 page.article=true
 @jd:body
@@ -7,7 +7,7 @@ page.article=true
 <div id="tb-wrapper">
 <div id="tb">
 
-<h2>In this document</h2>
+<h2>new text</h2>
 <ol class="nolist">
   <li><a href="#Android">How Android Manages Memory</a>
     <ol>
