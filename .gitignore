@@ -1,9 +1,8 @@
 #Try out ignoring one directory
 #training/**
 
-
-
-
 #One file type
 *.txt
+
+#second try
 
