@@ -2,7 +2,7 @@
 #training/**
 
 #One file type
-*.txt
+#*.txt
 
 #second try
 test-jd.jd
